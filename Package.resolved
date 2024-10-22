@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-html.git",
       "state" : {
-        "revision" : "be9d301d0d2ed432a57d10c5ab7a1183bd1afce8",
-        "version" : "0.4.1"
+        "revision" : "662619ff6c39c389694b9f5d522c72291d034928",
+        "version" : "0.5.0"
       }
     },
     {
